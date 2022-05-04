@@ -13,7 +13,7 @@ I am Shashank Agrawal, I'm currently a trainee at Acciojob for Full Stack Web De
 - 👯 I’m **good** in **Frontend Development** and **Java Programming**❤️.
 - ❤️ I love making **React JS** **** Projects👨‍💻 the most.
 - 💯  I’m *open for collaboration*🧠 on **Any kind of projects**.
-- 🍭 I’m looking for a **Job**.
+- 🍳 I’m looking for a **Job**.
 - 💬 Ask me about **Frontend** and  **DSA Problems**.
 - 🏅 Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
 - 📫 How to reach me: Email: **shashank220076@gmail.com**
