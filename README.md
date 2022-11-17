@@ -9,11 +9,10 @@ I am Shashank Agrawal, I'm currently a trainee at Acciojob for Full Stack Web De
 
 <br/>
 
-- 🌱 I’m currently learning **Full Stack Web Development Program** and improving my **Data Structures** and **Algorithm** skills👨‍💻.
-- 👯 I’m **good** in **Frontend Development** and **Java Programming**❤️.
-- ❤️ I love making **React JS** **** Projects👨‍💻 the most.
-- 💯  I’m *open for collaboration*🧠 on **Any kind of projects**.
-- 🍳 I’m looking for a **Job**.
+- 🌱 I’m currently working as Software Engineer at Revidd (Inflolabs) 👨‍💻.
+- 👯 I’m good in Frontend Development and Backend Development❤️.
+- ❤️ I love making React JS **** Projects👨‍💻 the most.
 - 💬 Ask me about **Frontend** and  **DSA Problems**.
+- 💯 I’m open to collaboration🧠 on Any kind of Project on my free time.
 - 🏅 Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
 - 📫 How to reach me: Email: **shashank220076@gmail.com**
