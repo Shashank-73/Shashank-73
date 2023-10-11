@@ -3,7 +3,7 @@
 <h2>About Me</h2>
 
 <p>
-I am Shashank Agrawal, I'm currently a trainee at Acciojob for the Full Stack Web Dev Program. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares. ⚡ Fun Fact: I love to connect with people and learn about their journeys, it helps me to open up my mind to different perspectives on various domains. 
+I am Shashank Agrawal, I’m good in Frontend Development and Backend Development. I am very keen to learn new technologies and use them to either create something useful or improve the existing software. ⚡ Fun Fact: I love to connect with people and learn about their journeys, it helps me to open up my mind to different perspectives on various domains. 
 💬 Ask me anything, and I will be more than happy to help.
 </p>
 
